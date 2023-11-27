@@ -54,15 +54,7 @@ This project is an Employee Management System developed using Spring Boot. It pr
 - View Employees: Navigate to the "View" page to see the list of existing employees.
 - Delete Employee: Navigate to the "View" page, find the employee you want to delete, and click the delete button.
 
-## Contributing
 
-If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature/new-feature`.
-3. Make your changes and commit them: `git commit -m 'Add new feature'`.
-4. Push to the branch: `git push origin feature/new-feature`.
-5. Open a pull request.
 
 ## Acknowledgments
 
